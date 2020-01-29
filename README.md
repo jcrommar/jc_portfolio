@@ -1,6 +1,6 @@
 # React Nice Resume     
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### DEMO is [PENDING](https://github.com/jcrommar/jc_portfolio/blob/master/README.md)
 
 ![img](https://github.com/jcrommar/jc_portfolio/blob/master/public/images/img.jpg?raw=true)
 
