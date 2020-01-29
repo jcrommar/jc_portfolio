@@ -1,4 +1,4 @@
-# React Nice Resume     
+# React J.C. Resume Portfolio
 
 ### DEMO is [PENDING](https://github.com/jcrommar/jc_portfolio/blob/master/README.md)
 
