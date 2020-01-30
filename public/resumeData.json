@@ -3,18 +3,18 @@
     "name":"J.C.",
     "description":"I am a Full Stack Software Engineer, Sr. NetSuite Administrator and Jr. Salesforce Administrator.",
     "image":"jc.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I’m a self-taught Software Engineer with a growing interest in technology and the most effective methods of building sustainable, consistent and professional software. For over 12 years, I have been working in businesses across different industries. I've had the opportunity to hold positions in administration and primarily customer service. I'm passionate about coding and I enjoy new challenges.",
+    "contactmessage":"Contact me for more or let's get together for coffee in DFW.",
     "email": "myemail@gmail.com",
     "phone": "000-000-0000",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/jcrommar/jc_portfolio",
+    "project":"https://github.com/jcrommar",
     "address":{
       "city":"Dallas | Ft Worth",
       "state":"TX"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/jcromualdo/",
+    "resumedownload":"https://www.linkedin.com/in/jcromualdo/",
     "social":[
       {
         "name":"twitter",
